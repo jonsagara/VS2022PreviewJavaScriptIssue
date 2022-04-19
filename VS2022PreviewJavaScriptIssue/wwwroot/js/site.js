@@ -1,5 +1,5 @@
 ﻿$(function () {
-    $("#otherid").on("click", function (e) {
+    $("#someid").on("click", function (e) {
 
     });
 });
